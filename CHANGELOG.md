@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.7.2](https://github.com/jef/streetmerchant/compare/v3.7.1...v3.7.2) (2022-10-21)
+
+
+### Continuous Integration
+
+* fix cache ([e1b4320](https://github.com/jef/streetmerchant/commit/e1b43206fcf037c140e507bb4d08c72248d76dcc))
+
 ## [3.7.1](https://github.com/jef/streetmerchant/compare/v3.7.0...v3.7.1) (2022-10-21)
 
 
