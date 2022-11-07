@@ -47,6 +47,7 @@ export type Series =
   | '3080'
   | '3080ti'
   | '3090'
+  | '4090'
   | 'darkhero'
   | 'rx6800'
   | 'rx6700xt'
@@ -76,6 +77,7 @@ export type Model =
   | 'amp extreme holo'
   | 'amp holo'
   | 'amp white'
+  | 'amp extreme airo'
   | 'aorus elite'
   | 'aorus master'
   | 'aorus master type-c'
@@ -210,6 +212,7 @@ export type Model =
   | 'ventus 2X (LHR)'
   | 'vision oc'
   | 'vision'
+  | 'windforce'
   | 'x3'
   | 'x3 oc'
   | 'x trio'
@@ -229,7 +232,8 @@ export type Model =
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'
   | 'xtreme'
-  | 'qick';
+  | 'qick'
+  | '';
 
 export type Link = {
   brand: Brand;

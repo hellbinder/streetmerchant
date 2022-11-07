@@ -1264,6 +1264,46 @@ export const Newegg: Store = {
       series: 'darkhero',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16813119362',
     },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932554',
+      model: 'windforce',
+      series: '4090',
+      url: 'https://www.newegg.com/gigabyte-geforce-rtx-4090-gv-n4090wf3-24gd/p/N82E16814932554',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932550',
+      model: 'gaming oc',
+      series: '4090',
+      url: 'https://www.newegg.com/gigabyte-geforce-rtx-4090-gv-n4090gaming-oc-24gd/p/N82E16814932550',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932555',
+      model: 'aorus',
+      series: '4090',
+      url: 'https://www.newegg.com/gigabyte-geforce-rtx-4090-gv-n4090aorus-m-24gd/p/N82E16814932555',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126594',
+      model: 'tuf oc',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-geforce-rtx-4090-tuf-rtx4090-o24g-gaming/p/N82E16814126594',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126596',
+      model: 'tuf',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-geforce-rtx-4090-tuf-rtx4090-24g-gaming/p/N82E16814126596',
+    }
   ],
   name: 'newegg',
   realTimeInventoryLookup: async (itemNumber: string) => {
