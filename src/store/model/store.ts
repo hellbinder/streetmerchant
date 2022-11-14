@@ -196,6 +196,7 @@ export type Model =
   | 'strix oc white'
   | 'strix white'
   | 'suprim'
+  | 'suprim liquid'
   | 'suprim x'
   | 'swft'
   | 'taichi'

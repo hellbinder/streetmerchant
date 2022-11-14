@@ -125,6 +125,36 @@ export const Adorama: Store = {
       series: '3090',
       url: 'https://www.adorama.com/asrx3090o24g.html',
     },
+    {
+      brand: 'pny',
+      model: '',
+      series: '4090',
+      url: 'https://www.adorama.com/pnyvcg409024.html',
+    },
+    {
+      brand: 'msi',
+      model: 'gaming trio',
+      series: '4090',
+      url: 'https://www.adorama.com/msig4090gt24.html',
+    },
+    {
+      brand: 'msi',
+      model: 'suprim liquid',
+      series: '4090',
+      url: 'https://www.adorama.com/msig409slx24.html',
+    },
+    {
+      brand: 'msi',
+      model: 'suprim x',
+      series: '4090',
+      url: 'https://www.adorama.com/msig4090sx24.html',
+    },
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '4090',
+      url: 'https://www.adorama.com/msig409gxt24.html',
+    },
   ],
   name: 'adorama',
 };
