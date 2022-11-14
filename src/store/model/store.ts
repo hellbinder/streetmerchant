@@ -30,10 +30,11 @@ export type Brand =
   | 'nvidia'
   | 'palit'
   | 'pny'
+  | 'powercolor'
   | 'sapphire'
   | 'sony'
+  | 'ubiquiti'
   | 'xfx'
-  | 'powercolor'
   | 'zotac';
 
 export type Series =
@@ -47,6 +48,7 @@ export type Series =
   | '3080'
   | '3080ti'
   | '3090'
+  | '4090'
   | 'darkhero'
   | 'rx6800'
   | 'rx6700xt'
@@ -59,6 +61,9 @@ export type Series =
   | 'sonyps5c'
   | 'sonyps5de'
   | 'sf'
+  | 'udm-pro'
+  | 'udm-us'
+  | 'udr-us'
   | 'xboxsx'
   | 'xboxss';
 
@@ -76,6 +81,7 @@ export type Model =
   | 'amp extreme holo'
   | 'amp holo'
   | 'amp white'
+  | 'amp extreme airo'
   | 'aorus elite'
   | 'aorus master'
   | 'aorus master type-c'
@@ -91,6 +97,9 @@ export type Model =
   | 'challenger pro'
   | 'challenger pro oc'
   | 'crosshair viii'
+  | 'dream machine'
+  | 'dream machine pro'
+  | 'dream router'
   | 'dual fan'
   | 'dual oc'
   | 'dual'
@@ -187,6 +196,7 @@ export type Model =
   | 'strix oc white'
   | 'strix white'
   | 'suprim'
+  | 'suprim liquid'
   | 'suprim x'
   | 'swft'
   | 'taichi'
@@ -210,6 +220,7 @@ export type Model =
   | 'ventus 2X (LHR)'
   | 'vision oc'
   | 'vision'
+  | 'windforce'
   | 'x3'
   | 'x3 oc'
   | 'x trio'
@@ -229,7 +240,8 @@ export type Model =
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'
   | 'xtreme'
-  | 'qick';
+  | 'qick'
+  | '';
 
 export type Link = {
   brand: Brand;

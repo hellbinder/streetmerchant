@@ -542,6 +542,46 @@ export const Amazon: Store = {
       url: 'https://www.amazon.com/dp/B08HJLLF7G',
     },
     {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BGP8FGNZ&Quantity.1=1',
+      model: 'gaming oc',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BGP8FGNZ',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BGV6LQYR&Quantity.1=1',
+      model: 'tuf',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BGV6LQYR',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BGJRHX1X&Quantity.1=1',
+      model: 'trinity oc',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BGJRHX1X',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B09D1VF7F8&Quantity.1=1',
+      model: 'amp extreme holo',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B09D1VF7F8',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BG959RCF&Quantity.1=1',
+      model: 'tuf',
+      series: '4090',
+      url: 'https://www.amazon.com/dp/B0BG959RCF',
+    },
+    {
       brand: 'amd',
       cartUrl:
         'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08166SLDF&Quantity.1=1',
